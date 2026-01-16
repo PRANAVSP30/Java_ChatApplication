@@ -45,6 +45,14 @@ Every client runs in a separate thread.
 
     Run read/write threads simultaneously
 
+### Tech Stack
+- Java (Core Java)
+- Socket Programming (TCP)
+- Multi-threading for concurrent clients
+- Real-time client–server communication
+- Tools: VS Code, Java JDK 25, Git & GitHub
+
+
 ### Output Screenshots
 
 <img width="500" height="197" alt="image" src="https://github.com/user-attachments/assets/97185082-1c17-4fe9-a879-c66dc10d9786" />
